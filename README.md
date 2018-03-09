@@ -7,8 +7,6 @@ You can use the [editor on GitHub](https://github.com/websitebloger/fitnessandmo
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 Syntax highlighted code block
-
-# ultimatefitness.com
 ## Header 2
 ### Header 3
 
@@ -17,6 +15,6 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-
-For more details see [15 ultimatefitness.com](https://websitebloger.github.io/fitnessandmore/doc/15%20ultimatefitness.com/).
+3. [shapestartertips.com](https://websitebloger.github.io/fitnessandmore/doc/3%20shapestartertips.com/).
+15. [ultimatefitness.com](https://websitebloger.github.io/fitnessandmore/doc/15%20ultimatefitness.com/).
 
