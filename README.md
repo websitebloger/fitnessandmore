@@ -21,12 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](https://github.com/websitebloger/fitnessandmore/) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [15 ultimatefitness.com](https://websitebloger.github.io/fitnessandmore/doc/15%20ultimatefitness.com/).
 
 ### Jekyll Themes
 
